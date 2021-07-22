@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300);
+
+.frame {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  height: 400px;
+  margin-top: -200px;
+  margin-left: -200px;
+  border-radius: 2px;
+	box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+	overflow: hidden;
+  background: #272C34;
+  color: #333;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.circle{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	overflow:hidden;
+	position:relative;
+}
+
+.sky{
+	background: #7DDFFC;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	height:200px;
+	z-index:0;
+	animation: animate-sky 5s cubic-bezier(.4,0,.49,1) infinite;
+}
+
+.sun{
+	background:#FFEF00;
+	top:7px;
+	left:80px;
+	height:35px;
+	width:35px;
+	border-radius:50%;
+	position:absolute;
+	z-index:1;
+	transform-origin:50% 400%;
+	animation: animate-sun 5s cubic-bezier(.4,0,.49,1) infinite;
+}
+
+.pyramid-left{
+	position:absolute;
+	background:#F4F4F4;
+	height:60px;
+	width:110px;
+	clip-path: polygon(0 100%, 100% 100%, 50% 0);
+	top:80px;
+	left:35px;
+	animation: animate-pyramid-left 5s cubic-bezier(.4,0,.49,1) infinite;
+}
+
+.pyramid-right{
+	background:#DDDADA;
+	height:60px;
+	width:110px;
+	top:80px;
+	left:65px;
+	position:absolute;
+	clip-path: polygon(30% 100%, 100% 100%, 22% 0);
+	animation: animate-pyramid-right 5s cubic-bezier(.4,0,.49,1) infinite;
+}
+
+.ground{
+	background:#F0DE75;
+	height:60px;
+	bottom:0;
+	left:0;
+	right:0;
+	position:absolute;
+	z-index:1;
+	animation: animate-ground 5s cubic-bezier(.4,0,.49,1) infinite;
+}
+

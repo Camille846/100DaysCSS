@@ -107,3 +107,37 @@
 	border-radius:3px;
 	background:#7BA2FF;
 }
+
+.stats{
+	position:relative;
+	width:260px;
+	height:80px;
+	margin: 0 auto;
+}
+
+.stats .line-1{
+	position:absolute;
+	background:#F2F2F2;
+	top:0;
+	left:0;
+	right:0;
+	height:1px;
+}
+
+.stats .line-2{
+	position:absolute;
+	background:#F2F2F2;
+	left:0;
+	right:0;
+	height:1px;
+	top:40px;
+}
+
+.stats .line-3{
+	position:absolute;
+	background:#F2F2F2;
+	left:0;
+	right:0;
+	height:1px;
+	bottom: 0;
+}

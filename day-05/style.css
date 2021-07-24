@@ -71,3 +71,39 @@
 	left:200px;
 }
 
+.parameters{
+	padding:10px 0 15px 0;
+	text-align:right;
+}
+
+.parameters span{
+	position:relative;
+	font-size:10px;
+	color:#606060;
+	line-height:13px;
+	padding:0 10px 0 25px;
+}
+
+.red-parameter::before{
+	content:'';
+	display:block;
+	position:absolute;
+	left:6px;
+	top:6px;
+	width:12px;
+	height:3px;
+	border-radius:3px;
+	background:#FA7373;
+}
+
+.blue-parameter::before{
+	content:'';
+	display:block;
+	position:absolute;
+	left:6px;
+	top:6px;
+	width:12px;
+	height:3px;
+	border-radius:3px;
+	background:#7BA2FF;
+}

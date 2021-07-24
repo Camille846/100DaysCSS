@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300);
+
+.frame {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  height: 400px;
+  margin-top: -200px;
+  margin-left: -200px;
+  border-radius: 2px;
+	box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+	overflow: hidden;
+  background: #42a7a1;
+  color: #333;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.card {
+  position: absolute;
+  top: 90px;
+	left: 60px;
+	height: 220px;
+	width: 280px;
+	background:#fff;
+	box-shadow: 10px 10px 15px 0 rgba(0,0,0,.2);
+	border-radius:3px;
+	overflow:hidden;
+}
+
+.header{
+	background:#f1ba64;
+	color:#fff;
+	height:60px;
+	width:100%;
+	position:relative;
+}
+
+.header .big{
+	position:absolute;
+	font-weight: 600;
+	text-transform:uppercase;
+	font-size:14px;
+}
+
+.header .small{
+	position:absolute;
+	font-weight:400;
+	font-size:11px;
+}
+
+.header .title{
+	top:12px;
+	left:15px;
+}
+
+.header .data{
+	top:30px;
+	left:15px;
+}
+
+.header .type{
+	top: 12px;
+	left:220px;
+}
+
+.header .value{
+	top:25px;
+	left:200px;
+}
+

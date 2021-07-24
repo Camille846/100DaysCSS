@@ -271,3 +271,17 @@
         left: 249px; 
         top: 61px; 
     }
+.week{
+    width:280px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+
+.day{
+    font-size:9px;
+    color:#949494;
+    line-height:30px;
+    text-transform:uppercase;
+}

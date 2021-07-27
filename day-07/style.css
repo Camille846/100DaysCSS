@@ -43,12 +43,14 @@
 
 .menu_icon{
 	position:absolute;
-  z-index: 3;
+  	z-index: 3;
+	width:29px;
+	height:15px;
 	top:23px;
 	left:20px;
 	font-size: 18px;
 	cursor:pointer;
-  pointer-events: auto;
+	pointer-events: auto;
 }
 
 .menu_icon .dash-top{
@@ -85,8 +87,8 @@
 	transition: all .2s ease-in-out;
 }
 
-.menu_icon:hover{
-    background-color: #fff;
+.menu_icon:hover .dash-top, .dash-bottom, .circle{
+	background:#fff;
 }
 .title{
     display:block;

@@ -14,13 +14,13 @@ All you need to get started with the challenge is access <a href="https://100day
 <a href="https://github.com/Camille846/100DaysCSS/tree/master/day-01">Meu código</a>
 
 + <strong> Day #2 - </strong> Menu icon CSS
-##### Used on almost every website by now, simple but impressively animated it becomes a real eye-catcher
+
 ![day2](https://user-images.githubusercontent.com/83260908/127424405-1c85c1f4-b513-46de-ba52-0e8861374735.gif)
 
 <a href="https://github.com/Camille846/100DaysCSS/tree/master/day-02">Meu código</a>
 
 + <strong> Day #3 - </strong> The Pyramide CSS
-##### Used on almost every website by now, simple but impressively animated it becomes a real eye-catcher
+
 ![day3](https://user-images.githubusercontent.com/83260908/127425249-ceb3fdfb-561b-4181-95df-4f57a1c2a2d3.gif)
 
 <a href="https://github.com/Camille846/100DaysCSS/tree/master/day-03">Meu código</a>
@@ -36,3 +36,16 @@ All you need to get started with the challenge is access <a href="https://100day
 ![day5](https://user-images.githubusercontent.com/83260908/127425247-666207b1-2e73-4bfb-873d-0a7e1d01a2bc.gif)
 
 <a href="https://github.com/Camille846/100DaysCSS/tree/master/day-05">Meu código</a>
+
++ <strong> Day #6 - </strong> Profile
+
+![day6](https://user-images.githubusercontent.com/83260908/127426726-f5715c06-95d9-4c1e-80c1-a59ee4c662d5.gif)
+
+<a href="https://github.com/Camille846/100DaysCSS/tree/master/day-06">Meu código</a>
+
++ <strong> Day #7 - </strong> Notifications, Search and Menu
+
+![day7](https://user-images.githubusercontent.com/83260908/127426720-a8637940-937a-4f10-90bb-a89add4ee2f5.gif)
+
+<a href="https://github.com/Camille846/100DaysCSS/tree/master/day-07">Meu código</a>
+

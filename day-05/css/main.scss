@@ -1,5 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300);
 
+$red:  #FA7373;
+$blue: #7BA2FF;
+
 .frame {
   position: absolute;
   top: 50%;
@@ -93,7 +96,7 @@
 	width:12px;
 	height:3px;
 	border-radius:3px;
-	background:#FA7373;
+	background:$red;
 }
 
 .blue-parameter::before{
@@ -105,7 +108,7 @@
 	width:12px;
 	height:3px;
 	border-radius:3px;
-	background:#7BA2FF;
+	background:$blue;
 }
 
 .stats{
@@ -157,11 +160,11 @@
 }
 
 .red polyline{
-	stroke: #FA7373;
+	stroke:$red;
 }
 
 .blue polyline{
-	stroke:#7BA2FF;
+	stroke:$blue;
 }
 
 .number{
@@ -199,89 +202,94 @@
 	cursor: pointer;
 	z-index: 10;
 	
+	&:hover .number{
+		visibility: visible;
+		opacity: 1;
+		transform: translate3d(-50%, 0, 0);
+	}
 }
 
-[class^="point-"]:hover .number{
-    visibility: visible;
-    opacity: 1;
-    transform: translate3d(-50%, 0, 0);
+.data{
+	&.red{
+        [class^="point-"], .number, .number::after{
+            background:$red;
+        }
+        .point-1 { 
+            left: 7px; 
+            top: 43px; 
+        }
+        .point-2 { 
+            left: 48px; 
+            top: 9px; 
+        }
+        .point-3 { 
+            left: 88px; 
+            top: 20px; 
+        }
+        .point-4 { 
+            left: 128px; 
+            top: 8px; 
+        }
+        .point-5 { 
+            left: 169px; 
+            top: 35px; 
+        }
+        .point-6 { 
+            left: 209px; 
+            top: 45px; 
+        }
+        .point-7 { 
+            left: 249px; 
+            top: 16px; 
+        }
+    }
+    &.blue {
+        [class^="point-"], .number, .number::after {
+            background: $blue;
+        }
+
+        .point-1 { 
+            left: 7px; 
+            top: 58px; 
+        }
+        .point-2 { 
+            left: 48px; 
+            top: 47px; 
+        }
+        .point-3 { 
+            left: 88px; 
+            top: 62px; 
+        }
+        .point-4 { 
+            left: 128px; 
+            top: 52px; 
+        }
+        .point-5 { 
+            left: 169px; 
+            top: 58px; 
+        }
+        .point-6 { 
+            left: 209px; 
+            top: 71px; 
+        }
+        .point-7 { 
+            left: 249px; 
+            top: 61px; 
+        }
+    }
 }
 
-.data .red [class^="point-"], .number, .number::after{
-    background: #FA7373;
-    }
-    .point-1 { 
-        left: 7px; 
-        top: 43px; 
-    }
-    .point-2 { 
-        left: 48px; 
-        top: 9px; 
-    }
-    .point-3 { 
-        left: 88px; 
-        top: 20px; 
-    }
-    .point-4 { 
-        left: 128px; 
-        top: 8px; 
-    }
-    .point-5 { 
-        left: 169px; 
-        top: 35px; 
-    }
-    .point-6 { 
-        left: 209px; 
-        top: 45px; 
-    }
-    .point-7 { 
-        left: 249px; 
-        top: 16px; 
-    }
-
-.data .blue [class^="point-"], .number, .number::after {
-        background: #7BA2FF;
-    }
-
-    .point-1 { 
-        left: 7px; 
-        top: 58px; 
-    }
-    .point-2 { 
-        left: 48px; 
-        top: 47px; 
-    }
-    .point-3 { 
-        left: 88px; 
-        top: 62px; 
-    }
-    .point-4 { 
-        left: 128px; 
-        top: 52px; 
-    }
-    .point-5 { 
-        left: 169px; 
-        top: 58px; 
-    }
-    .point-6 { 
-        left: 209px; 
-        top: 71px; 
-    }
-    .point-7 { 
-        left: 249px; 
-        top: 61px; 
-    }
 .week{
-    width:280px;
-    margin:0 auto;
-    display:flex;
-    flex-direction:row;
-    justify-content:space-around;
+	width:280px;
+	margin:0 auto;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
 }
 
 .day{
-    font-size:9px;
-    color:#949494;
-    line-height:30px;
-    text-transform:uppercase;
+	font-size:9px;
+	color:#949494;
+	line-height:30px;
+	text-transform:uppercase;
 }

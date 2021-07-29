@@ -43,41 +43,47 @@
 
 .menu_icon{
 	position:absolute;
-  	z-index: 3;
+  z-index: 3;
 	width:29px;
 	height:15px;
 	top:23px;
 	left:20px;
 	font-size: 18px;
 	cursor:pointer;
-	pointer-events: auto;
+  pointer-events: auto;
+	
+	&:hover{
+		.dash-top, .dash-bottom, .circle{
+			background:#fff;
+		}
+	}
 }
 
-.menu_icon .dash-top{
-    position:absolute;
+.dash-top{
+	position:absolute;
 	width:22px;
 	height:3px;
 	top:0;
 	left:0;
 	border-radius:4px;
-    transition: all .2s ease-in-out;
-    background-color:#B2DAFF;
+	transition: all .2s ease-in-out;
+	background-color:#B2DAFF;
 }
 
-.menu_icon .circle{
-    position:absolute;
+.circle{
+  position:absolute;
 	height:7px;
 	width:7px;
 	top:-2px;
-	right:-30px;
+	right:-1px;
 	background-color:#B2DAFF;
 	border-radius:50%;
 	transition: all .2s ease-in-out;
-    cursor: pointer;
+	cursor: pointer;
 }
 
-.menu_icon .dash-bottom{
-    position:absolute;
+ .dash-bottom{
+  position:absolute;
 	width:29px;
 	height:3px;
 	top:10px;
@@ -87,9 +93,6 @@
 	transition: all .2s ease-in-out;
 }
 
-.menu_icon:hover .dash-top, .dash-bottom, .circle{
-	background:#fff;
-}
 .title{
     display:block;
 	text-align:center;
@@ -116,18 +119,18 @@
 	transition: all .5s ease-in-out;
 	pointer-events:none;
 	opacity:0;
-    z-index: 5;
+	z-index:5;
 }
 
 .search_input.active{
-    transform: translateX(0);
-    opacity: 1;
-    pointer-events: all;
-    cursor: text;
+	transform: translateX(0);
+	opacity: 1;
+	pointer-events: all;
+	cursor: text;
 }
 
 .search_input:focus{
-    outline: none;
+	outline:none;
 }
 .search_icon{
 	position:absolute;
@@ -150,9 +153,9 @@
 	position:absolute;
 	height:100%;
 	overflow:hidden;
-    z-index: 0;
-    cursor: none;
-    pointer-events: none;
+	z-index: 0;
+	cursor: none;
+	pointer-events: none;
 }
 .vertical-line{
 	position:absolute;
@@ -161,9 +164,9 @@
 	top:0;
 	left:25px;
 	bottom:0;	
-    z-index: 0;
-    cursor: none;
-    pointer-events: none;
+	z-index: 0;
+	cursor: none;
+	pointer-events: none;
 }
 
 .notifications{

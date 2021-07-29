@@ -202,8 +202,8 @@
   height: 4px;
   opacity: .3;
   left: 18px;
-  -webkit-animation: raining 2s linear 1.6s infinite;
-          animation: raining 2s linear 1.6s infinite;
+  -webkit-animation: raining 2.1s linear 0.52s infinite;
+          animation: raining 2.1s linear 0.52s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -214,8 +214,8 @@
   top: -35px;
   opacity: .7;
   left: 18px;
-  -webkit-animation: raining 1.4s linear 1.4s infinite;
-          animation: raining 1.4s linear 1.4s infinite;
+  -webkit-animation: raining 1.4s linear 1.56s infinite;
+          animation: raining 1.4s linear 1.56s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -224,8 +224,8 @@
   width: 10px;
   height: 10px;
   left: 18px;
-  -webkit-animation: raining 0.9s linear 1.08s infinite;
-          animation: raining 0.9s linear 1.08s infinite;
+  -webkit-animation: raining 0.9s linear 0.36s infinite;
+          animation: raining 0.9s linear 0.36s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -255,8 +255,8 @@
   height: 4px;
   opacity: .3;
   left: 56px;
-  -webkit-animation: raining 2.1s linear 0.96s infinite;
-          animation: raining 2.1s linear 0.96s infinite;
+  -webkit-animation: raining 2s linear 0.08s infinite;
+          animation: raining 2s linear 0.08s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -267,8 +267,8 @@
   top: -35px;
   opacity: .7;
   left: 56px;
-  -webkit-animation: raining 1.5s linear 1.24s infinite;
-          animation: raining 1.5s linear 1.24s infinite;
+  -webkit-animation: raining 1.5s linear 0.24s infinite;
+          animation: raining 1.5s linear 0.24s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -277,8 +277,8 @@
   width: 10px;
   height: 10px;
   left: 56px;
-  -webkit-animation: raining 0.8s linear 1.92s infinite;
-          animation: raining 0.8s linear 1.92s infinite;
+  -webkit-animation: raining 0.9s linear 1s infinite;
+          animation: raining 0.9s linear 1s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -308,8 +308,8 @@
   height: 4px;
   opacity: .3;
   left: 94px;
-  -webkit-animation: raining 2.1s linear 1s infinite;
-          animation: raining 2.1s linear 1s infinite;
+  -webkit-animation: raining 2.1s linear 0.12s infinite;
+          animation: raining 2.1s linear 0.12s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -320,8 +320,8 @@
   top: -35px;
   opacity: .7;
   left: 94px;
-  -webkit-animation: raining 1.4s linear 1.28s infinite;
-          animation: raining 1.4s linear 1.28s infinite;
+  -webkit-animation: raining 1.5s linear 1.96s infinite;
+          animation: raining 1.5s linear 1.96s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -330,8 +330,8 @@
   width: 10px;
   height: 10px;
   left: 94px;
-  -webkit-animation: raining 0.8s linear 1.12s infinite;
-          animation: raining 0.8s linear 1.12s infinite;
+  -webkit-animation: raining 0.9s linear 0.72s infinite;
+          animation: raining 0.9s linear 0.72s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -361,8 +361,8 @@
   height: 4px;
   opacity: .3;
   left: 132px;
-  -webkit-animation: raining 2.1s linear 1.6s infinite;
-          animation: raining 2.1s linear 1.6s infinite;
+  -webkit-animation: raining 2.1s linear 1.96s infinite;
+          animation: raining 2.1s linear 1.96s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -373,8 +373,8 @@
   top: -35px;
   opacity: .7;
   left: 132px;
-  -webkit-animation: raining 1.4s linear 1.36s infinite;
-          animation: raining 1.4s linear 1.36s infinite;
+  -webkit-animation: raining 1.5s linear 0.2s infinite;
+          animation: raining 1.5s linear 0.2s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -383,8 +383,8 @@
   width: 10px;
   height: 10px;
   left: 132px;
-  -webkit-animation: raining 0.8s linear 1.16s infinite;
-          animation: raining 0.8s linear 1.16s infinite;
+  -webkit-animation: raining 0.9s linear 0.08s infinite;
+          animation: raining 0.9s linear 0.08s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -414,8 +414,8 @@
   height: 4px;
   opacity: .3;
   left: 170px;
-  -webkit-animation: raining 2.1s linear 0.56s infinite;
-          animation: raining 2.1s linear 0.56s infinite;
+  -webkit-animation: raining 2.1s linear 1.84s infinite;
+          animation: raining 2.1s linear 1.84s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -436,8 +436,8 @@
   width: 10px;
   height: 10px;
   left: 170px;
-  -webkit-animation: raining 0.8s linear 1.24s infinite;
-          animation: raining 0.8s linear 1.24s infinite;
+  -webkit-animation: raining 0.8s linear 1.48s infinite;
+          animation: raining 0.8s linear 1.48s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -467,8 +467,8 @@
   height: 4px;
   opacity: .3;
   left: 208px;
-  -webkit-animation: raining 2.1s linear 1.32s infinite;
-          animation: raining 2.1s linear 1.32s infinite;
+  -webkit-animation: raining 2.1s linear 0.48s infinite;
+          animation: raining 2.1s linear 0.48s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -479,8 +479,8 @@
   top: -35px;
   opacity: .7;
   left: 208px;
-  -webkit-animation: raining 1.5s linear 1.56s infinite;
-          animation: raining 1.5s linear 1.56s infinite;
+  -webkit-animation: raining 1.4s linear 1.72s infinite;
+          animation: raining 1.4s linear 1.72s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -489,8 +489,8 @@
   width: 10px;
   height: 10px;
   left: 208px;
-  -webkit-animation: raining 0.9s linear 1.64s infinite;
-          animation: raining 0.9s linear 1.64s infinite;
+  -webkit-animation: raining 0.8s linear 0.52s infinite;
+          animation: raining 0.8s linear 0.52s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -520,8 +520,8 @@
   height: 4px;
   opacity: .3;
   left: 246px;
-  -webkit-animation: raining 2s linear 1.36s infinite;
-          animation: raining 2s linear 1.36s infinite;
+  -webkit-animation: raining 2s linear 0.64s infinite;
+          animation: raining 2s linear 0.64s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -532,8 +532,8 @@
   top: -35px;
   opacity: .7;
   left: 246px;
-  -webkit-animation: raining 1.4s linear 0.48s infinite;
-          animation: raining 1.4s linear 0.48s infinite;
+  -webkit-animation: raining 1.4s linear 0.8s infinite;
+          animation: raining 1.4s linear 0.8s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -542,8 +542,8 @@
   width: 10px;
   height: 10px;
   left: 246px;
-  -webkit-animation: raining 0.8s linear 0.12s infinite;
-          animation: raining 0.8s linear 0.12s infinite;
+  -webkit-animation: raining 0.9s linear 1.28s infinite;
+          animation: raining 0.9s linear 1.28s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -573,8 +573,8 @@
   height: 4px;
   opacity: .3;
   left: 284px;
-  -webkit-animation: raining 2.1s linear 0.24s infinite;
-          animation: raining 2.1s linear 0.24s infinite;
+  -webkit-animation: raining 2.1s linear 0.6s infinite;
+          animation: raining 2.1s linear 0.6s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -585,8 +585,8 @@
   top: -35px;
   opacity: .7;
   left: 284px;
-  -webkit-animation: raining 1.5s linear 0.52s infinite;
-          animation: raining 1.5s linear 0.52s infinite;
+  -webkit-animation: raining 1.4s linear 0.4s infinite;
+          animation: raining 1.4s linear 0.4s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -595,8 +595,8 @@
   width: 10px;
   height: 10px;
   left: 284px;
-  -webkit-animation: raining 0.9s linear 0.48s infinite;
-          animation: raining 0.9s linear 0.48s infinite;
+  -webkit-animation: raining 0.9s linear 2s infinite;
+          animation: raining 0.9s linear 2s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -626,8 +626,8 @@
   height: 4px;
   opacity: .3;
   left: 322px;
-  -webkit-animation: raining 2s linear 0.4s infinite;
-          animation: raining 2s linear 0.4s infinite;
+  -webkit-animation: raining 2.1s linear 0.52s infinite;
+          animation: raining 2.1s linear 0.52s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -638,8 +638,8 @@
   top: -35px;
   opacity: .7;
   left: 322px;
-  -webkit-animation: raining 1.5s linear 1.52s infinite;
-          animation: raining 1.5s linear 1.52s infinite;
+  -webkit-animation: raining 1.5s linear 1.16s infinite;
+          animation: raining 1.5s linear 1.16s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -648,8 +648,8 @@
   width: 10px;
   height: 10px;
   left: 322px;
-  -webkit-animation: raining 0.8s linear 1.72s infinite;
-          animation: raining 0.8s linear 1.72s infinite;
+  -webkit-animation: raining 0.8s linear 1.96s infinite;
+          animation: raining 0.8s linear 1.96s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -679,8 +679,8 @@
   height: 4px;
   opacity: .3;
   left: 360px;
-  -webkit-animation: raining 2.1s linear 1.2s infinite;
-          animation: raining 2.1s linear 1.2s infinite;
+  -webkit-animation: raining 2.1s linear 0.6s infinite;
+          animation: raining 2.1s linear 0.6s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -691,8 +691,8 @@
   top: -35px;
   opacity: .7;
   left: 360px;
-  -webkit-animation: raining 1.4s linear 1.16s infinite;
-          animation: raining 1.4s linear 1.16s infinite;
+  -webkit-animation: raining 1.5s linear 1.04s infinite;
+          animation: raining 1.5s linear 1.04s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }
@@ -701,8 +701,8 @@
   width: 10px;
   height: 10px;
   left: 360px;
-  -webkit-animation: raining 0.9s linear 0.2s infinite;
-          animation: raining 0.9s linear 0.2s infinite;
+  -webkit-animation: raining 0.8s linear 1.12s infinite;
+          animation: raining 0.8s linear 1.12s infinite;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
 }

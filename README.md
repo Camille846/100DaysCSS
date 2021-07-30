@@ -49,3 +49,16 @@ All you need to get started with the challenge is access <a href="https://100day
 
 <a href="https://github.com/Camille846/100DaysCSS/tree/master/day-07">Meu código</a>
 
++ <strong> Day #8 - </strong> Metaballs
+
+![day08](https://user-images.githubusercontent.com/83260908/127585896-8afa19c6-ab00-4840-92db-38667cf9bdd2.gif)
+
+<a href="https://github.com/Camille846/100DaysCSS/tree/master/day-08">Meu código</a>
+
++ <strong> Day #9 - </strong> Rainy Night
+
+![day09](https://user-images.githubusercontent.com/83260908/127585902-77884969-93a5-4d99-83f4-7b9f52670998.gif)
+
+<a href="https://github.com/Camille846/100DaysCSS/tree/master/day-09">Meu código</a>
+
+

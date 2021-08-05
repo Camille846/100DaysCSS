@@ -115,11 +115,12 @@ $darkBlue: #286F8A;
 			margin-left:10px;
 			position:relative;
 			top:1px;
-			cursor: text;
+			cursor: pointer;
 			transition:all .2s ease-out;
 			
 			&:hover{
 				transform: scale(1.15) translate(0,0);
+				cursor: pointer;
 			}
 		}
 	}

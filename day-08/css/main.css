@@ -46,8 +46,8 @@ body {
   left: 20px;
   width: 60px;
   height: 60px;
-  -webkit-transform: rotate(116deg);
-          transform: rotate(116deg);
+  -webkit-transform: rotate(199deg);
+          transform: rotate(199deg);
 }
 
 .inside-ball-1:after {
@@ -72,8 +72,8 @@ body {
   left: 20px;
   width: 60px;
   height: 60px;
-  -webkit-transform: rotate(221deg);
-          transform: rotate(221deg);
+  -webkit-transform: rotate(116deg);
+          transform: rotate(116deg);
 }
 
 .inside-ball-2:after {
@@ -98,8 +98,8 @@ body {
   left: 20px;
   width: 60px;
   height: 60px;
-  -webkit-transform: rotate(288deg);
-          transform: rotate(288deg);
+  -webkit-transform: rotate(197deg);
+          transform: rotate(197deg);
 }
 
 .inside-ball-3:after {
@@ -124,8 +124,8 @@ body {
   left: 20px;
   width: 60px;
   height: 60px;
-  -webkit-transform: rotate(50deg);
-          transform: rotate(50deg);
+  -webkit-transform: rotate(16deg);
+          transform: rotate(16deg);
 }
 
 .inside-ball-4:after {
@@ -150,8 +150,8 @@ body {
   left: 20px;
   width: 60px;
   height: 60px;
-  -webkit-transform: rotate(218deg);
-          transform: rotate(218deg);
+  -webkit-transform: rotate(59deg);
+          transform: rotate(59deg);
 }
 
 .inside-ball-5:after {
@@ -176,8 +176,8 @@ body {
   left: 20px;
   width: 60px;
   height: 60px;
-  -webkit-transform: rotate(241deg);
-          transform: rotate(241deg);
+  -webkit-transform: rotate(115deg);
+          transform: rotate(115deg);
 }
 
 .inside-ball-6:after {
@@ -202,8 +202,8 @@ body {
   left: 20px;
   width: 60px;
   height: 60px;
-  -webkit-transform: rotate(94deg);
-          transform: rotate(94deg);
+  -webkit-transform: rotate(58deg);
+          transform: rotate(58deg);
 }
 
 .inside-ball-7:after {
@@ -228,8 +228,8 @@ body {
   left: 20px;
   width: 60px;
   height: 60px;
-  -webkit-transform: rotate(195deg);
-          transform: rotate(195deg);
+  -webkit-transform: rotate(188deg);
+          transform: rotate(188deg);
 }
 
 .inside-ball-8:after {
@@ -254,8 +254,8 @@ body {
   left: 35px;
   width: 8px;
   height: 8px;
-  -webkit-transform: rotate(262deg);
-          transform: rotate(262deg);
+  -webkit-transform: rotate(219deg);
+          transform: rotate(219deg);
 }
 
 .ball-orbit-1:after {
@@ -279,8 +279,8 @@ body {
   left: 35px;
   width: 9px;
   height: 9px;
-  -webkit-transform: rotate(71deg);
-          transform: rotate(71deg);
+  -webkit-transform: rotate(221deg);
+          transform: rotate(221deg);
 }
 
 .ball-orbit-2:after {
@@ -304,8 +304,8 @@ body {
   left: 35px;
   width: 10px;
   height: 10px;
-  -webkit-transform: rotate(131deg);
-          transform: rotate(131deg);
+  -webkit-transform: rotate(61deg);
+          transform: rotate(61deg);
 }
 
 .ball-orbit-3:after {
@@ -329,8 +329,8 @@ body {
   left: 35px;
   width: 11px;
   height: 11px;
-  -webkit-transform: rotate(163deg);
-          transform: rotate(163deg);
+  -webkit-transform: rotate(114deg);
+          transform: rotate(114deg);
 }
 
 .ball-orbit-4:after {
@@ -354,8 +354,8 @@ body {
   left: 35px;
   width: 12px;
   height: 12px;
-  -webkit-transform: rotate(53deg);
-          transform: rotate(53deg);
+  -webkit-transform: rotate(92deg);
+          transform: rotate(92deg);
 }
 
 .ball-orbit-5:after {
@@ -379,8 +379,8 @@ body {
   left: 35px;
   width: 13px;
   height: 13px;
-  -webkit-transform: rotate(85deg);
-          transform: rotate(85deg);
+  -webkit-transform: rotate(93deg);
+          transform: rotate(93deg);
 }
 
 .ball-orbit-6:after {
@@ -404,8 +404,8 @@ body {
   left: 35px;
   width: 14px;
   height: 14px;
-  -webkit-transform: rotate(224deg);
-          transform: rotate(224deg);
+  -webkit-transform: rotate(163deg);
+          transform: rotate(163deg);
 }
 
 .ball-orbit-7:after {
@@ -429,8 +429,8 @@ body {
   left: 35px;
   width: 15px;
   height: 15px;
-  -webkit-transform: rotate(107deg);
-          transform: rotate(107deg);
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
 }
 
 .ball-orbit-8:after {
@@ -454,8 +454,8 @@ body {
   left: 35px;
   width: 16px;
   height: 16px;
-  -webkit-transform: rotate(262deg);
-          transform: rotate(262deg);
+  -webkit-transform: rotate(140deg);
+          transform: rotate(140deg);
 }
 
 .ball-orbit-9:after {
@@ -479,8 +479,8 @@ body {
   left: 35px;
   width: 17px;
   height: 17px;
-  -webkit-transform: rotate(193deg);
-          transform: rotate(193deg);
+  -webkit-transform: rotate(210deg);
+          transform: rotate(210deg);
 }
 
 .ball-orbit-10:after {
